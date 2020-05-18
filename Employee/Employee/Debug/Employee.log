@@ -1,0 +1,11 @@
+﻿Build started 4/16/2019 10:50:55 PM.
+     1>Project "c:\Users\TK\documents\visual studio 2012\Projects\Employee\Employee\Employee.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Employee.cpp
+         Employee.cpp
+     1>c:\users\tk\documents\visual studio 2012\projects\employee\employee\employee.cpp(23): error C2143: syntax error : missing ';' before '}'
+     1>Done Building Project "c:\Users\TK\documents\visual studio 2012\Projects\Employee\Employee\Employee.vcxproj" (ClCompile target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.45

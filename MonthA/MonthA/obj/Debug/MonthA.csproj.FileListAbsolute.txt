@@ -1,0 +1,9 @@
+c:\users\tk\documents\visual studio 2012\Projects\MonthA\MonthA\bin\Debug\MonthA.exe.config
+c:\users\tk\documents\visual studio 2012\Projects\MonthA\MonthA\bin\Debug\MonthA.exe
+c:\users\tk\documents\visual studio 2012\Projects\MonthA\MonthA\bin\Debug\MonthA.pdb
+c:\users\tk\documents\visual studio 2012\Projects\MonthA\MonthA\obj\Debug\MonthA.csprojResolveAssemblyReference.cache
+c:\users\tk\documents\visual studio 2012\Projects\MonthA\MonthA\obj\Debug\MonthA.Form1.resources
+c:\users\tk\documents\visual studio 2012\Projects\MonthA\MonthA\obj\Debug\MonthA.Properties.Resources.resources
+c:\users\tk\documents\visual studio 2012\Projects\MonthA\MonthA\obj\Debug\MonthA.csproj.GenerateResource.Cache
+c:\users\tk\documents\visual studio 2012\Projects\MonthA\MonthA\obj\Debug\MonthA.exe
+c:\users\tk\documents\visual studio 2012\Projects\MonthA\MonthA\obj\Debug\MonthA.pdb
